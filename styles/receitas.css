@@ -1,0 +1,11 @@
+hr {
+    width: 100%;
+}
+
+.card {
+    height: 90%;
+}
+
+.receitas {
+    gap: 2rem;
+}
